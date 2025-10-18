@@ -7,6 +7,11 @@ A high-fidelity physics-based simulation of a 1U CubeSat with regenerative react
 ![PyBullet](https://img.shields.io/badge/PyBullet-3.2.5+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+<img width="926" height="761" alt="Screenshot 2025-10-18 133955" src="https://github.com/user-attachments/assets/502947fa-a91b-4a95-8ea2-8b88c34b99a5" />
+
+<img width="1919" height="1022" alt="Screenshot 2025-10-18 134109" src="https://github.com/user-attachments/assets/ea866b77-d7f0-4cc6-b67a-6f926e7cd2db" />
+
+
 ## 🚀 Features
 
 ### Advanced Control Systems

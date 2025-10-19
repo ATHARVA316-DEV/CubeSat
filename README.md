@@ -11,6 +11,9 @@ A high-fidelity physics-based simulation of a 1U CubeSat with regenerative react
 
 <img width="1919" height="1022" alt="Screenshot 2025-10-18 134109" src="https://github.com/user-attachments/assets/ea866b77-d7f0-4cc6-b67a-6f926e7cd2db" />
 
+<img width="1107" height="854" alt="image" src="https://github.com/user-attachments/assets/4be24a8e-2749-41be-bf36-20afca0b613c" />
+
+<img width="1025" height="858" alt="image" src="https://github.com/user-attachments/assets/1ff775f0-41da-49f0-99b2-76d990a944cc" />
 
 ## 🚀 Features
 
